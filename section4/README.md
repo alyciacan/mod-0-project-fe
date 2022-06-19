@@ -45,7 +45,7 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 ## Letter to Instructors
 
 
-- [https://gist.github.com/alyciacan/2e0718f05e941fc4de7108079a187d7f.js](My Letter 'Link to my letter here')
+- [https://gist.github.com/alyciacan/2e0718f05e941fc4de7108079a187d7f](My Letter 'Link to my letter here')
 
 ## Mentorship Prep
 
