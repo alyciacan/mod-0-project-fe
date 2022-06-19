@@ -42,10 +42,10 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 <img width="919" alt="Screen Shot 2022-06-11 at 11 57 28 AM" src="https://user-images.githubusercontent.com/105533317/173273632-b9f31895-a630-4329-b890-fb2d32f3702f.png">
 <img width="1072" alt="Screen Shot 2022-06-11 at 11 57 39 AM" src="https://user-images.githubusercontent.com/105533317/173273600-3645b4a8-a5fb-4937-92e6-de70ea361153.png">
 <img width="1088" alt="Screen Shot 2022-06-11 at 11 57 47 AM" src="https://user-images.githubusercontent.com/105533317/173270252-5d1e1d56-7c37-4f9b-a403-470ee64c792c.png">
-## Letter to Instructors
 
+##Letter to Instructors
 
-- [https://gist.github.com/alyciacan/2e0718f05e941fc4de7108079a187d7f](My Letter 'Link to my letter here')
+- [https://gist.github.com/alyciacan/2e0718f05e941fc4de7108079a187d7f](My Letter)
 
 ## Mentorship Prep
 
